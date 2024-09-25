@@ -1,6 +1,6 @@
 import React from 'react'
 
-function new1() {
+function AddGame() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function new1() {
   )
 }
 
-export default new1
+export default AddGame
