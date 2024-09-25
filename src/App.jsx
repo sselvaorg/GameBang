@@ -13,6 +13,7 @@ function App(){
           <Route path="lib" element={<Library/>} />
           <Route path="home" element={<Home/>}/>
           <Route path="todo" element={<Todo/>} />
+          <Route path="login" element={<Login/>}/>
         </Routes>
       </Router>
       </>
