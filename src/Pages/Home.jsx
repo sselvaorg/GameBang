@@ -5,7 +5,7 @@ function Home(){
     return(
         <>
             <NavBar/>
-            <h1 className="text-white" >header</h1>
+            <h1 className="text-white">header</h1>
         </>
     )
 }

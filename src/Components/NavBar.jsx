@@ -49,7 +49,7 @@ function NavBar() {
           Gpay
         </a>
       </Menu.Item>
-      <Menu.Item className="text-white text-3xl " >
+      <Menu.Item className="text-white " >
         gs
       </Menu.Item>
     </Menu>
